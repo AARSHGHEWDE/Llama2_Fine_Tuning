@@ -1,6 +1,4 @@
-# Llama2_Fine_Tuning
-
-# 🦙 Fine-Tuning-LLaMA
+# Fine-Tuning-LLaMA2
 
 ## 🧪 Practical Introduction to LLaMA 2 Fine-Tuning
 
